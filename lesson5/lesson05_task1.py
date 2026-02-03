@@ -14,3 +14,4 @@ try:
     time.sleep(1)
 finally:
     driver.quit()
+    
